@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1587146926 source:c:\users\nico\desktop\estudio\tecnicatura\2020\primer cuatrimestre\laboratorio y programacion\trabajos practicos\tp1_nicolasfernandez_1f\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+
+1587141326 c:\users\nico\desktop\estudio\tecnicatura\2020\primer cuatrimestre\laboratorio y programacion\trabajos practicos\tp1_nicolasfernandez_1f\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	"funciones.c"
+
+1587147166 c:\users\nico\desktop\estudio\tecnicatura\2020\primer cuatrimestre\laboratorio y programacion\trabajos practicos\tp1_nicolasfernandez_1f\funciones.c
+	"funciones.h"
+
